@@ -1,0 +1,24 @@
+body{
+    background-image: url("./img/fondocal.jpg");
+ 
+}
+
+#nav{
+    background-color: #F5F5F5;
+    width: 500px;
+    margin-top: 10px;
+    border: solid #C0C0C0;
+    border-radius: 20px;
+}
+
+#padre {
+    width: 500px;
+    text-align: center;
+    margin-left: calc(50% - 250px);
+    margin-top: 60px;
+    padding: 36px;
+    border-radius: 20px;
+    background: #F5F5F5;
+    border: solid 2px #C0C0C0;
+}
+ 
